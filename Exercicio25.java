@@ -20,11 +20,13 @@ public class Exercicio25 {
         if(sexo.equalsIgnoreCase("f") || sexo.equalsIgnoreCase("m")){
             System.out.println("Sexo digitado é valido");
         } 
+
         System.out.println("Qual é o estado civil??");
         estadoCivil = scan.next();
         if(estadoCivil.equalsIgnoreCase("C") || estadoCivil.equalsIgnoreCase("S") || estadoCivil.equalsIgnoreCase("V") || estadoCivil.equalsIgnoreCase("D")){
             System.out.println("Esse estado civil é válido!");
         }
+        
         System.out.println("Digite um salário");
         salario = scan.nextFloat();
         if(salario > 0){
