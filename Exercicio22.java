@@ -31,5 +31,7 @@ public class Exercicio22 {
         
         boolean par = resultado % 2 == 0;
         System.out.println("o resultado " + resultado + " é " + (par ? "par" : "ímpar"));
+
+        scan.close();
     }
 }

@@ -17,5 +17,6 @@ public class Exercicio21 {
        } else{
            System.out.println("valor invalido!");
        }
+       scan.close();
    } 
 }

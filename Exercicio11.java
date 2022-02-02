@@ -16,6 +16,7 @@ public class Exercicio11 {
         System.out.println(" O produto do dobro do primeiro com metade do segundo é: " + (numeroInteiro * 2) * ( numeroInteiro2/2 )) ;
         System.out.println(" A soma do triplo do primeiro com o terceiro é "+ (numeroInteiro * 3 + numeroReal));
         System.out.println(" O terceiro numero elevado ao cubo é " + (numeroReal * numeroReal * numeroReal));
+        scan.close();
     }
 
     

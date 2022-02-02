@@ -37,6 +37,7 @@ public class ControleDeDecisao2 {
         // - variável pode ter seu valor alterado no código.
         // - constante é um valor que nunca muda, é fixo e como boas práticas de programação
         // o nome dessa constante é escrito em MAIUSCULO, e para definir que é uma constante 
-        // tem que escrever final antes do nome. = final MAIUSCULO = 123;
+        // tem que escrever final antes do nome. = final MAIUSCULO = 123; 
+        scan.close();
     }
 }

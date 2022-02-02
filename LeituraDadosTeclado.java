@@ -32,5 +32,6 @@ public class LeituraDadosTeclado {
         System.out.println(" idade " + ida);
         System.out.println(" altura " + alt);
         System.out.println(" filhos " + filhos);
+        scan.close();
     }
 }

@@ -27,5 +27,7 @@ public class ControleDeDecisao {
         } else {
             System.out.println("extremamente caro!!");
         }
+
+        scan.close();
     }
 }

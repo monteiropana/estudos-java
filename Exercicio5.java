@@ -9,7 +9,7 @@ public class Exercicio5 {
         System.out.println (" esse numero em centimetros fica: " + (metragem * 100) + "cm");
 
 
-
+        scan.close();
 }
 
 

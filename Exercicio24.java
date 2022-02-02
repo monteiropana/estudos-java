@@ -20,6 +20,8 @@ public class Exercicio24 {
             }
         }  while(usuario.equals(senha));
         System.out.println("digite novamente um usuário e senha diferente!");
+
+        scan.close();
     }
 }
 

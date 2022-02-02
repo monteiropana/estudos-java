@@ -8,6 +8,7 @@ public class Exercicio6 {
         Scanner scan = new Scanner(System.in);
         raio = scan.nextFloat();
         System.out.println("A área do circúlo é: " + calcularAreaCirculo(raio));
+        scan.close();
     }
 
 

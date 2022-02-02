@@ -13,5 +13,6 @@ public class Exercicio15 {
         } else{
            System.out.println(" esse numero é negativo");
         }
+        scan.close();
     }    
 }

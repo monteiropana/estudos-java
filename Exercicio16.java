@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Exercicio16 {
     public static void main(String[] args){
-    Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
         String letra;
 
         
@@ -16,5 +16,6 @@ public class Exercicio16 {
         } else {
             System.out.println("SEXO INVALIDO");
         }
+        scan.close();
     }
 }

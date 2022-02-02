@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicios {
+public class Exercicios123 {
     public static void main(String []args){
         //exercicio 1
         System.out.println("olá mundo!!!");
@@ -20,7 +20,7 @@ public class Exercicios {
         numero2 = scan.nextInt();
         System.out.println ("a soma dos numeros1 e numero2 é:  " + (numero1 + numero2));
         
-
+        scan.close();
 
 
     }

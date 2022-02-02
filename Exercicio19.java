@@ -24,5 +24,7 @@ public class Exercicio19 {
     } else if( num3 > num1 && num3 > num2){
         System.out.println("esse numero é o maior " + num3);
     }
+
+    scan.close();
   }
 }

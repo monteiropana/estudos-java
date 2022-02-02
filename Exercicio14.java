@@ -17,5 +17,6 @@ public class Exercicio14 {
         // } else{
         //     System.out.println("o numero maior é: " + segundoNumero);
         // }  
+        scan.close();
     }    
 }

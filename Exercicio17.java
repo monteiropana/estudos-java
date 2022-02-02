@@ -20,5 +20,7 @@ public class Exercicio17 {
         } else{
             System.out.println("Essa letra é consoante");
         }
+
+        scan.close();
     }
 }

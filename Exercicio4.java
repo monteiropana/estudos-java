@@ -19,6 +19,6 @@ public class Exercicio4 {
         nota4 = scan.nextInt();
         System.out.println(" qual a media da soma das notas ? : " + ((nota1 + nota2 + nota3 + nota4) / 4));
 
-
+        scan.close();
     }
 }

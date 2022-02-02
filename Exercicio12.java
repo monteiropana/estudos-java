@@ -10,6 +10,6 @@ public class Exercicio12 {
         
 
 
-
+        scan.close();
    }
 }

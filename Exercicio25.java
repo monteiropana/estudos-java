@@ -36,6 +36,8 @@ public class Exercicio25 {
         nome = scan.next();
         if(nome.length() > 3){
             System.out.println("Esse nome é válido!");
-        }       
+        }
+        
+        scan.close();
     }
 }

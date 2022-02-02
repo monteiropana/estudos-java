@@ -9,6 +9,7 @@ public class Exercicio7 {
         int area = lado * lado;
         System.out.println(" o dobro da area do quadrado é :" + area * 2);
 
+        scan.close();
 
     }
 }

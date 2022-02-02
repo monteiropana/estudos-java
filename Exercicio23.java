@@ -31,5 +31,7 @@ public class Exercicio23 {
         }
         System.out.println("Essa nota é válida!" + nota);
         System.out.println("###### FIM WHILE #######");
+
+        scan.close();
     }
 }

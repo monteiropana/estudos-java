@@ -24,6 +24,7 @@ public class Teste {
 
         par = resto == 0;
         System.out.println("o resultado da soma é par? " + par);
+        scan.close();
        
     }
 }

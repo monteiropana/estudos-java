@@ -11,6 +11,7 @@ public class Exercicio8 {
         horasTrabalhadas = scan.nextFloat();
 
         System.out.println(" seu salário no mês é : " + (valor * horasTrabalhadas));
+        scan.close();
     }
     
 }

@@ -28,6 +28,7 @@ public class Exercicio13{
 
         salarioLiquido = salarioBruto - descontos;
         System.out.println("o salario liquido é: " + salarioLiquido);
+        scan.close();
         
     }
 

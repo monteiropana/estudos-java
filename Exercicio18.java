@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio18 {
-        public static void main(String[] args){
+    public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
         int nota1;
@@ -24,5 +24,7 @@ public class Exercicio18 {
         } else if(media == 70){
             System.out.println("Aprovado com distinção");
         }
+
+        scan.close();
     }
 }

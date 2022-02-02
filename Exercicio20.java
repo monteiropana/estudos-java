@@ -24,6 +24,7 @@ public class Exercicio20 {
         } else {
             System.out.println("esse numero é o MENOR " + num3);
         }
+        scan.close();
       }
 }
 
