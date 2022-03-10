@@ -23,5 +23,9 @@ public class Lampada {
         System.out.println(lampada.preco);
         System.out.println(lampada.volts + " volts");
         System.out.println(lampada.situacao);
+    }
+
+    public static String getposicaoFinal() {
+        return null;
     }  
 }
